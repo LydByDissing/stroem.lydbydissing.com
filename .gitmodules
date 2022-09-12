@@ -1,0 +1,6 @@
+[submodule "site/roxo-hugo"]
+	path = site/roxo-hugo
+	url = https://github.com/StaticMania/roxo-hugo.git
+[submodule "site/themes/roxo"]
+	path = site/themes/roxo
+	url = https://github.com/StaticMania/roxo-hugo.git
