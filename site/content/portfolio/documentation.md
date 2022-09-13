@@ -1,9 +1,9 @@
 ---
-title: "Documentation"
+title: "Documentation on readthedocs.org"
 date: 2022-09-12
 type: portfolio
-image: "images/projects/project-thumb-one.jpg"
-category: ["UI UX"]
+image: "images/projects/stroem-rtd-logo.png"
+category: ["Doc readthedocs"]
 project_images: ["images/projects/adjusting-the-response.png", "images/projects/requirements.png"]
 ---
 

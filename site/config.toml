@@ -58,7 +58,7 @@ summarylength = 25
   # Banner Section
   [params.banner]
     enable                = true
-    background_image      = "images/backgrounds/stroem-side-look-large.png"
+    background_image      = "images/backgrounds/stroem-1_0-dark_background.png"
     heading               = "The STRØM 1.0 Wifi Streaming Speaker Project"
     tagline               = "FULLY OPEN SOURCE SPEAKER DESIGN"
     primary_button        = "Learn more about the project"
@@ -68,25 +68,25 @@ summarylength = 25
 
   [params.portfolio]
     enable    = true
-    title     = "OUR RECENT WORKS"
-    subtitle  = "Crafting experiences and seeking to make the complex clear & beautiful."
+    title     = "MORE FROM THE PROJECT"
+    subtitle  = "The Strøm open source speaker project have been started with the main goal of creating a fully functional “streaming speaker”, but as an open sourced product. One that you can choose to buy fully built and tested, or choose to built it yourself."
 
   [params.call_to_action]
     enable              = true
     background_image    = "images/backgrounds/cabinet-layer-2-drawing-crop.png"
-    title               = "LET’S WORK TOGETHER"
-    primary_button      = "Submit Query"
+    title               = "JOIN THE PROJECT"
+    primary_button      = "Join the Beta"
     primary_button_url  = "contact"
-    secondary_button    = "Not Convinced"
+    secondary_button    = "Tell me more"
     secondary_button_url = "portfolio"
 
   [params.footer]
     # Footer Contact Info
     [params.footer.contactInfo]
       title   = "Contact Info"
-      address = "713 Elmwood St.<br>Prior Lake, MN 55372"
-      phone   = "409-896-1444"
-      email   = "info@roxo.co"
+      address = "Lyd by Dissing ApS, Aabjergvej 12M, 2720 Vanloese"
+      phone   = "+45 20 68 33 02"
+      email   = "contact@lydbydissing.com"
       # Footer Sitemap
       [params.footer.sitemap]
         title   = "Sitemap"
@@ -97,27 +97,17 @@ summarylength = 25
           name = "Projects"
           url  = "portfolio"
         [[params.footer.sitemap.link]]
-          name = "Blog"
-          url  = "blog"
-        [[params.footer.sitemap.link]]
           name = "Contact"
           url  = "contact"
       # Footer Social Media
       [params.footer.social]
         title   = "Social Media"
         [[params.footer.social.link]]
-          name = "Medium"
-          url  = "#"
+          name = "LinkedIn"
+          url  = "https://www.linkedin.com/company/lyd-by-dissing-aps/"
         [[params.footer.social.link]]
-          name = "Behance"
-          url  = "#"
-        [[params.footer.social.link]]
-          name = "Dribbble"
-          url  = "#"
+          name = "Facebook"
+          url  = "https://facebook.com/lydbydissing/"
         [[params.footer.social.link]]
           name = "Instagram"
-          url  = "#"
-      # Footer Service
-      [params.footer.service]
-        title       = "We help brands:"
-        description = "develop design solutions<br>produce valuable cultural content<br>create fresh brand experience"
+          url  = "https://www.instagram.com/lydbydissing/"
