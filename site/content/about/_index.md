@@ -1,8 +1,8 @@
 ---
 title: "About Us"
-date: 2018-07-12T18:19:33+06:00
-heading : "WE ARE ROXO DESIGN. AN AWARD-WINNING CREATIVE STUDIO IN FLORIDA."
-description : "We are specialized in developing forward-thinking brand identities, websites, illustration and animation for all types of customers. And we do this by bringing our customers through each phase of the design process with us."
-expertise_title: "Expertise"
-expertise_sectors: ["Customer Experience Design", "Digital Products", "Development", "Campaign & Content", "Employer Branding", "Animation & Motion Graphics", "Packaging & Product Design", "Retail & Spacial", "Print & Editorial Design", "Concept/Text", "Information Design"]
+date: 2022-09-13T20:07:21 CEST
+heading : "The STRØM 1.0 project is an open source product development demonstrator facilitated as part of Lyd by Dissing"
+description : "With this project it is not the goal to create another boombox, with over attenuated lows (bass) and highs (treble) as this will quickly result in listening fatigue. This is also called a smiley face curve."
+expertise_title: "Needed Expertise"
+expertise_sectors: ["Computer Aided Design (CAD)", "Computor Aided Manufacturing (CAM)", "Acoustics", "Measurements", "Customer Experience Design", "Digital Manufacturing", "Digital Products", "Development", "Packaging & Product Design", "Retail & Spacial"]
 ---

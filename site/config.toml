@@ -28,7 +28,7 @@ summarylength = 25
   description = "STRØM 1.0 | Fully Open Source WiFi and Bluetooth Speaker"
   author = "Lyd by Dissing"
   # Google Analitycs
-  googleAnalitycsID = "Your ID"
+#  googleAnalitycsID = "Your ID"
   # We're using formspree.io for form handling, paste your formspree url below
   #fabform  = "https://fabform.io/f/USAg2Jl"
 
@@ -37,8 +37,8 @@ summarylength = 25
     placeholder_full_name         = "Full Name"
     #placeholder_last_name         = "Last Name"
     placeholder_email             = "Email"
-    placeholder_project_type      = "Project Type"
-    placeholder_about_the_project = "About the Project"
+    #placeholder_project_type      = "Project Type"
+    placeholder_about_the_project = "Ask about the Project"
     send_message                  = "Send Message"
 
     [[params.contactForm.projectType]]
@@ -64,7 +64,7 @@ summarylength = 25
     primary_button        = "Learn more about the project"
     primary_button_url    = "portfolio"
     secondary_button      = "Join the BETA program"
-    secondary_button_url  = "contact"
+    secondary_button_url  = "blog/join-the-beta"
 
   [params.portfolio]
     enable    = true

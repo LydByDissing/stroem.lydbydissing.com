@@ -1,4 +1,4 @@
 ---
-title: "We build better <span>products</span> to help our clients build better <span>companies</span>"
-date: 2019-12-23T16:48:28+06:00
+title: "We build <span>open source</span> audio projects that you can <span>repair</span>"
+date: 2022-09-13T20:07:21 CEST
 ---
