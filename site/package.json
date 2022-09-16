@@ -1,0 +1,11 @@
+{
+  "comments": {
+    "dependencies": {},
+    "devDependencies": {}
+  },
+  "dependencies": {
+    "@cloudflare/pages-plugin-mailchannels": "^0.1.1"
+  },
+  "name": "site",
+  "version": "0.1.0"
+}
