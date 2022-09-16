@@ -15,10 +15,10 @@ summarylength = 25
     name    = "About"
     url     = "about"
     weight  = 2
-  [[menu.nav]]
-    name    = "Get in touch"
-    url     = "contact"
-    weight  = 3
+#  [[menu.nav]]
+#    name    = "Get in touch"
+#    url     = "contact"
+#    weight  = 3
 
 # Site Params
 [params]
