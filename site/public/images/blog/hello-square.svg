@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="1.1" viewBox="0 0 850.394 850.394" width="850.394pt" xmlns:xlink="http://www.w3.org/1999/xlink" height="850.394pt" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <path d="M0.346719 3.32516 L1.14266 3.38859 L1.14266 9.50688 L0.346719 9.57031 L0.346719 10 L2.51953 10 L2.51953 9.57031 L1.72359 9.50688 L1.72359 6.72844 L5.76656 6.72844 L5.76656 9.50688 L4.97078 9.57031 L4.97078 10 L7.14359 10 L7.14359 9.57031 L6.34766 9.50688 L6.34766 3.38859 L7.14359 3.32516 L7.14359 2.89063 L4.97078 2.89063 L4.97078 3.32516 L5.76656 3.38859 L5.76656 6.23047 L1.72359 6.23047 L1.72359 3.38859 L2.51953 3.32516 L2.51953 2.89063 L0.346719 2.89063 L0.346719 3.32516 Z" id="GlRobotoSlab-Light42"/>
+  <path d="M2.80281 10.1025 C3.64266 10.1025 4.24313 9.83891 4.63875 9.42375 L4.38969 9.02344 C4.02344 9.39937 3.52547 9.60938 2.80281 9.60938 C1.7725 9.60938 1.07906 8.70109 1.07906 7.51469 L1.07906 7.37297 L4.80953 7.37297 L4.80953 6.875 C4.80953 5.50781 4.01859 4.61906 2.72469 4.61906 C1.49422 4.61906 0.498125 5.73734 0.498125 7.24609 L0.498125 7.51469 C0.498125 9.01859 1.47469 10.1025 2.80281 10.1025 L2.80281 10.1025 Z M2.72469 5.11719 C3.6475 5.11719 4.22859 5.81547 4.22859 6.73344 L4.22859 6.87984 L1.13281 6.87984 L1.12312 6.85547 C1.22078 5.85938 1.86531 5.11719 2.72469 5.11719 Z" id="GlRobotoSlab-Light71"/>
+  <path d="M0.356406 2.81734 L1.15234 2.88078 L1.15234 9.50688 L0.356406 9.57031 L0.356406 10 L2.52937 10 L2.52937 9.57031 L1.73344 9.50688 L1.73344 2.38281 L0.356406 2.38281 L0.356406 2.81734 Z" id="GlRobotoSlab-Light78"/>
+  <path d="M0.473594 7.28031 L0.473594 7.44141 C0.473594 9.00391 1.39656 10.1025 2.81734 10.1025 C4.22359 10.1025 5.14656 9.00391 5.14656 7.44141 L5.14656 7.28031 C5.14656 5.72266 4.21875 4.61906 2.80766 4.61906 C1.40141 4.61906 0.473594 5.72266 0.473594 7.28031 L0.473594 7.28031 Z M1.05953 7.44141 L1.05953 7.28031 C1.05953 6.07422 1.71391 5.11719 2.80766 5.11719 C3.90141 5.11719 4.56062 6.07422 4.56062 7.28031 L4.56062 7.44141 C4.56062 8.66703 3.90625 9.60938 2.81734 9.60938 C1.70906 9.60938 1.05953 8.66703 1.05953 7.44141 Z" id="GlRobotoSlab-Light81"/>
+ </defs>
+ <g inkscape:label="Background" id="Background" inkscape:groupmode="layer">
+  <path d="M0 0 L871.5 0 L871.5 870.236 L0 870.236 L0 0 Z" transform="translate(-7.751, -8.50394)" style="fill:#009ee3; fill-rule:evenodd;stroke-width:1; stroke-linecap:butt; stroke-linejoin:miter; stroke-dasharray:none; stroke:#171615;"/>
+  <g transform="translate(108.498, 96.4951)">
+   <path d="M 0 24.4141 L187.6 24.4141" transform="matrix(1 0 0 1 0 190.44)" style="fill:none;stroke:#ffffff; stroke-width:1;"/>
+   <use xlink:href="#GlRobotoSlab-Light42" transform="matrix(25 0 0 25 0 -59.5603)" style="fill:#ffffff;stroke:none;"/>
+   <path d="M 0 24.4141 L134.5 24.4141" transform="matrix(1 0 0 1 187.6 190.44)" style="fill:none;stroke:#ffffff; stroke-width:1;"/>
+   <use xlink:href="#GlRobotoSlab-Light71" transform="matrix(25 0 0 25 187.6 -59.5603)" style="fill:#ffffff;stroke:none;"/>
+   <path d="M 0 24.4141 L74.4 24.4141" transform="matrix(1 0 0 1 322.1 190.44)" style="fill:none;stroke:#ffffff; stroke-width:1;"/>
+   <use xlink:href="#GlRobotoSlab-Light78" transform="matrix(25 0 0 25 322.1 -59.5603)" style="fill:#ffffff;stroke:none;"/>
+   <path d="M 0 24.4141 L71.9 24.4141" transform="matrix(1 0 0 1 396.5 190.44)" style="fill:none;stroke:#ffffff; stroke-width:1;"/>
+   <use xlink:href="#GlRobotoSlab-Light78" transform="matrix(25 0 0 25 396.5 -59.5603)" style="fill:#ffffff;stroke:none;"/>
+   <path d="M 0 24.4141 L140.6 24.4141" transform="matrix(1 0 0 1 468.4 190.44)" style="fill:none;stroke:#ffffff; stroke-width:1;"/>
+   <use xlink:href="#GlRobotoSlab-Light81" transform="matrix(25 0 0 25 468.4 -59.5603)" style="fill:#ffffff;stroke:none;"/>
+   <path d="M0 0 L649.25 0 L649.25 429.75 L0 429.75 L0 0 Z" style="fill:none; stroke:none;"/>
+  </g>
+ </g>
+</svg>
