@@ -5,11 +5,6 @@
     <link>https://stroem.lydbydissing.com/about/</link>
     <description>Recent content in About Us on STRØM 1.0 | Fully Open Source WiFi and Bluetooth Speaker</description>
     <generator>Hugo -- gohugo.io</generator>
-<<<<<<< HEAD
     <language>en-us</language><atom:link href="https://stroem.lydbydissing.com/about/index.xml" rel="self" type="application/rss+xml" />
-=======
-    <language>en-us</language>
-    <lastBuildDate>Thu, 12 Jul 2018 18:19:33 +0600</lastBuildDate><atom:link href="https://stroem.lydbydissing.com/about/index.xml" rel="self" type="application/rss+xml" />
->>>>>>> 6c593db (using webp images)
   </channel>
 </rss>

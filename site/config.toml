@@ -58,7 +58,7 @@ summarylength = 25
   # Banner Section
   [params.banner]
     enable                = true
-    background_image      = "images/backgrounds/stroem-1_0-dark_background.png"
+    background_image      = "images/backgrounds/stroem-1_0-dark_background.webp"
     heading               = "The STRØM 1.0 Wifi Streaming Speaker Project"
     tagline               = "FULLY OPEN SOURCE SPEAKER DESIGN"
     primary_button        = "Learn more about the project"
