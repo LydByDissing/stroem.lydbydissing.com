@@ -1,13 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
+<<<<<<< HEAD
     <title>STRØM Blog on STRØM 1.0 | Fully Open Source WiFi and Bluetooth Speaker</title>
     <link>https://stroem.lydbydissing.com/blog/</link>
     <description>Recent content in STRØM Blog on STRØM 1.0 | Fully Open Source WiFi and Bluetooth Speaker</description>
+=======
+    <title>Roxo Blog on STRØM 1.0 | Fully Open Source WiFi and Bluetooth Speaker</title>
+    <link>https://stroem.lydbydissing.com/blog/</link>
+    <description>Recent content in Roxo Blog on STRØM 1.0 | Fully Open Source WiFi and Bluetooth Speaker</description>
+>>>>>>> 6c593db (using webp images)
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 23 Dec 2019 20:17:01 +0600</lastBuildDate><atom:link href="https://stroem.lydbydissing.com/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
+<<<<<<< HEAD
       <title>How lovely! Join the beta</title>
       <link>https://stroem.lydbydissing.com/blog/join-the-beta/</link>
       <pubDate>Wed, 07 Sep 2022 19:55:43 +0200</pubDate>
@@ -17,6 +24,8 @@
     </item>
     
     <item>
+=======
+>>>>>>> 6c593db (using webp images)
       <title>We are so glad that you reach out!</title>
       <link>https://stroem.lydbydissing.com/blog/thanks/</link>
       <pubDate>Wed, 07 Sep 2022 19:55:43 +0200</pubDate>
