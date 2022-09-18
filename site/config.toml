@@ -28,7 +28,7 @@ summarylength = 25
   description = "STRØM 1.0 | Fully Open Source WiFi and Bluetooth Speaker"
   author = "Lyd by Dissing"
   # Google Analitycs
-#  googleAnalitycsID = "Your ID"
+  googleAnalitycsID = "Your ID"
   # We're using formspree.io for form handling, paste your formspree url below
   #fabform  = "https://fabform.io/f/USAg2Jl"
 
