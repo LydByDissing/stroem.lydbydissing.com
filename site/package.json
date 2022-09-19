@@ -6,9 +6,22 @@
   "dependencies": {
     "@cloudflare/pages-plugin-mailchannels": "^0.1.1"
   },
-  "name": "site",
+  "name": "stroem.lydbydissing.com",
   "version": "0.1.0",
   "devDependencies": {
+    "hugo-bin": "^0.91.1",
     "wrangler": "^2.1.4"
-  }
+  },
+  "scripts": {
+    "build": "npm run hugo:build",
+    "clean": "npm run hugo:clean",
+    "serve": "npm run hugo:serve",
+    "hugo:build": "hugo -d build",
+    "hugo:serve": "hugo server",
+    "hugo:clean": "rm -rf build resources public"
+  },
+  "main": "index.html",
+  "author": "",
+  "license": "MIT",
+  "description": ""
 }
