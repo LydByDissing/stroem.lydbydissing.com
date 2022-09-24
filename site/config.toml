@@ -15,10 +15,10 @@ summarylength = 25
     name    = "About"
     url     = "about"
     weight  = 2
-#  [[menu.nav]]
-#    name    = "Get in touch"
-#    url     = "contact"
-#    weight  = 3
+  [[menu.nav]]
+    name    = "Get in touch"
+    url     = "contact"
+    weight  = 3
 
 # Site Params
 [params]
@@ -34,8 +34,8 @@ summarylength = 25
 
   # Contact Form
   [params.contactForm]
-    placeholder_full_name         = "Full Name"
-    #placeholder_last_name         = "Last Name"
+    placeholder_first_name        = "First Name"
+    placeholder_last_name         = "Last Name"
     placeholder_email             = "Email"
     #placeholder_project_type      = "Project Type"
     placeholder_about_the_project = "Ask about the Project"
@@ -79,6 +79,12 @@ summarylength = 25
     primary_button_url  = "contact"
     secondary_button    = "Tell me more"
     secondary_button_url = "portfolio"
+
+  [params.subscribe]
+    enable              = true
+    title               = "Subscribe!"
+    subtitle            = "Signup to our newsletter to get updated with the latest update from the STRØM project"
+    background_image    = "images/backgrounds/cabinet-layer-2-drawing-crop.png"
 
   [params.footer]
     # Footer Contact Info

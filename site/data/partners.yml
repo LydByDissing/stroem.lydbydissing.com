@@ -1,0 +1,15 @@
+enable  : true
+title   : "We are also present here"
+members :
+  - image: "images/partners/octocat.png"
+    name: "GitHub"
+    link: "https://github.com/LydByDissing"
+  - image: "images/partners/rtd-logo-dark.svg"
+    name: "Read the Docs"
+    link: "https://stroem.readthedocs.io/en/latest/"
+  - image: "images/partners/instagram.png"
+    name: "Instagram"
+    link: "https://www.instagram.com/lydbydissing/"
+  - image: "images/partners/LI-In-Bug.png"
+    name: "LinkedIn"
+    link: "https://www.linkedin.com/company/lyd-by-dissing-aps/"

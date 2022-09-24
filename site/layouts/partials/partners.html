@@ -1,0 +1,24 @@
+{{ with .Site.Data.partners }}
+  {{ if .enable }}
+  <section class="site-client">
+    <div class="container">
+      <div class="row">
+        <div class="col-12">
+          <div class="section-title">
+            <h2>{{ .title }}</h2>
+          </div>
+          <div class="site-client-wrapper">
+            {{ range .members }}
+            <div class="site-client-item">
+              <a href="{{ .link }}" >
+                {{ partial "image.html" (dict "context" . "image" .image "altText" "partner image" "height" "150px") }}
+              </a>
+            </div>
+            {{ end }}
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  {{ end }}
+{{ end }}
