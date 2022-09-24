@@ -18,7 +18,11 @@ convertPngImages:
 generateHTML:
 	bash -c "hugo -D --minify"
 
-buildSite: convertImages generateHTML
+buildSite: clean convertImages generateHTML
+
+clean:
+	$(shell rm -fr public)
+	$(shell rm -fr resources/_gen)
 
 installDependencies:
 	brew install hugo
