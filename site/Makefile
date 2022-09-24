@@ -15,8 +15,10 @@ convertPngImages:
 		avifenc --min 0 --max 63 --minalpha 0 --maxalpha 63 --advanced end-usage=q --advanced cq-level=32 --advanced tune=ssim --speed 0 --jobs all --ignore-icc $$i "$${i%.png}.avif";\
 	done
 
-buildSite: convertImages
+generateHTML:
 	bash -c "hugo -D --minify"
+
+buildSite: convertImages generateHTML
 
 installDependencies:
 	brew install hugo
